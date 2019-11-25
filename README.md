@@ -1,4 +1,4 @@
-<h1 align="center">Strategies for semantic similarityS</h1>
+<h1 align="center">Strategies for semantic similarity</h1>
 <p>
 </p>
 
