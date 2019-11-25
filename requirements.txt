@@ -1,0 +1,6 @@
+spacy
+tensorflow
+pytorch
+torch
+numpy
+pandas
